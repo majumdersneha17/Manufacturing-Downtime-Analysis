@@ -35,7 +35,6 @@ The analysis is based on manufacturing production and downtime data, including:
 - **Relationships**: Star schema with fact and dimension tables.
 
 ## File Contents
-- `Manufacturing Downtime Analysis.pbix`: The main Power BI report file.
 - `README.md`: Documentation and project details.
 
 
