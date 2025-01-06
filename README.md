@@ -8,8 +8,6 @@ This project provides a comprehensive analysis of manufacturing downtime, enabli
 - 📊 **Interactive Dashboards**: Visualize downtime trends, causes, and patterns across production lines.
 - 📈 **Pareto Analysis**: Highlight the 80/20 rule to identify the most significant downtime causes contributing to overall inefficiencies.
 - 🎨 **Conditional Formatting**: Automatically highlight critical metrics and thresholds for improved decision-making.
-- 🔗 **Data Integration**: Combines data from multiple sources, including machine logs and production schedules.
-- 🔍 **Root Cause Analysis**: Drill-through capabilities to identify the primary reasons for downtime.
 
 ## Dataset Description
 The analysis is based on manufacturing production and downtime data, including:
@@ -22,7 +20,7 @@ The analysis is based on manufacturing production and downtime data, including:
 - Average downtime per shift/line.
 - Most frequent downtime causes.
 - Productivity loss due to downtime.
-- **Pareto Insight**: The most significant 20% of causes contributing to 80% of downtime.
+- **Pareto Insight**: The most significant causes contributing to 80% of downtime.
 - Conditional visual cues to indicate critical metrics.
 
 ## Technical Details
